@@ -1,0 +1,26 @@
+.social-counters { margin: 10px 0; text-align: center; font-size: 12px; font-family: Arial; }
+	.social-counters .social-counter { margin: 0 4px; padding: 1px 0 2px 81px; color: #000; text-decoration: none; }
+		
+		.social-counters .social-counter SPAN { margin: 0; padding: 1px 4px 2px 10px; background: url(../images/bkg-counter.gif) no-repeat 0 50%; border-right: 1px solid #bbb; }
+		
+		.social-counters .social-counter-en-facebook { background: url(../images/en/facebook.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-meneame { background: url(../images/en/meneame.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-twitter { background: url(../images/en/twitter.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-gbuzz { background: url(../images/en/google-buzz.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-tuenti { background: url(../images/en/tuenti.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-bitacoras { background: url(../images/en/bitacoras.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-en-linkedin { background: url(../images/en/linkedin.gif) no-repeat 0 50%; }
+		
+		.social-counters .social-counter-es-facebook { background: url(../images/es/facebook.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-meneame { background: url(../images/es/meneame.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-twitter { background: url(../images/es/twitter.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-gbuzz { background: url(../images/es/google-buzz.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-tuenti { background: url(../images/es/tuenti.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-bitacoras { background: url(../images/en/bitacoras.gif) no-repeat 0 50%; }
+		.social-counters .social-counter-es-linkedin { background: url(../images/en/linkedin.gif) no-repeat 0 50%; }
+		
+	.social-counters-mini {}
+		.social-counters-mini .social-counter { padding-left: 18px; }
+			.social-counters .social-counter SPAN { background-color: #fff; }
+		
+		

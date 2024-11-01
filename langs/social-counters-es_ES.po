@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Counters\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-18 17:03+0100\n"
+"PO-Revision-Date: 2010-10-18 17:03+0100\n"
+"Last-Translator: Alejandro Carravedo <acarravedo@gmail.com>\n"
+"Language-Team: Blogestudio <info@blogestudio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: social-counters-admin.php:6
+msgid "Social Counters"
+msgstr "Contadores Sociales"
+
+#: counters/bitacoras.php:69
+#: counters/facebook.php:69
+#: counters/google-buzz.php:68
+#: counters/meneame.php:75
+#: counters/tuenti.php:33
+#: counters/twitter.php:73
+msgid "lang-dir"
+msgstr "es"
+
+#: counters/bitacoras.php:72
+msgid "Share this in Bitacoras.com"
+msgstr "Compártelo en Bitacoras.com"
+
+#: counters/facebook.php:72
+msgid "Share this in Facebook"
+msgstr "Compártelo en Facebook"
+
+#: counters/google-buzz.php:71
+msgid "Share this in Google Buzz"
+msgstr "Compártelo en Google Buzz"
+
+#: counters/meneame.php:78
+msgid "Share this in Menéame"
+msgstr "Menéalo"
+
+#: counters/tuenti.php:36
+msgid "Share this in Tuenti"
+msgstr "Compártelo en Tuenti"
+
+#: counters/twitter.php:76
+msgid "Share this in Twitter"
+msgstr "Compártelo en Twitter"
+
+#~ msgid "Extra Fields"
+#~ msgstr "Campos Extra"
+
+#~ msgid "Web URL"
+#~ msgstr "Dirección Web"
+
+#~ msgid "eMail"
+#~ msgstr "Correo Electrónico"
+
+#~ msgid "Contact"
+#~ msgstr "Persona de Contacto"
+
+#~ msgid "Address"
+#~ msgstr "Dirección"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Some error in extra fields."
+#~ msgstr "Se han detectado errores en los campos extra."
+#~ msgctxt "taxonomy general name"
+
+#~ msgid "States"
+#~ msgstr "Provincias"
+#~ msgctxt "taxonomy singular name"
+
+#~ msgid "State"
+#~ msgstr "Provincia"
+
+#~ msgid "Search States"
+#~ msgstr "Buscar Provincias"
+
+#~ msgid "All States"
+#~ msgstr "Todas las Provincias"
+
+#~ msgid "Parent State"
+#~ msgstr "Provincia Padre"
+
+#~ msgid "Parent State:"
+#~ msgstr "Provincia Padre:"
+
+#~ msgid "Edit State"
+#~ msgstr "Editar Provincia"
+
+#~ msgid "Update State"
+#~ msgstr "Actualizar Provincia"
+
+#~ msgid "Add New State"
+#~ msgstr "Añadir Nueva Provincia"
+
+#~ msgid "New State Name"
+#~ msgstr "Nombre de Nueva Provincia"
+
+#~ msgid "States"
+#~ msgstr "Provincias"
+#~ msgctxt "taxonomy general name"
+
+#~ msgid "Jobs"
+#~ msgstr "Profesiones"
+#~ msgctxt "taxonomy singular name"
+
+#~ msgid "Job"
+#~ msgstr "Profesión"
+
+#~ msgid "Search Jobs"
+#~ msgstr "Buscar Profesiones"
+
+#~ msgid "All Jobs"
+#~ msgstr "Todas las Profesiones"
+
+#~ msgid "Parent Job"
+#~ msgstr "Profesión Padre"
+
+#~ msgid "Parent Job:"
+#~ msgstr "Profesión Padre:"
+
+#~ msgid "Edit Job"
+#~ msgstr "Editar Profesión"
+
+#~ msgid "Update Job"
+#~ msgstr "Actualizar Profesión"
+
+#~ msgid "Add New Job"
+#~ msgstr "Añadir Nueva Profesión"
+
+#~ msgid "New Job Name"
+#~ msgstr "Nombre de Nueva Profesión"
+
+#~ msgid "Jobs"
+#~ msgstr "Profesiones"
+
+#~ msgid "New State Job"
+#~ msgstr "Nombre de Nueva Profesión"
